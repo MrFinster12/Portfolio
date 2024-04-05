@@ -41,7 +41,7 @@ img {
     height: 400px
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1700px) {
     h1{
         font-size: 20pt;
         justify-content: center;
